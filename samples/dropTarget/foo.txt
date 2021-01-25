@@ -1,0 +1,1 @@
+MOVE from toString(a=!1){return a?l(this,!0):(this._formatted||(this._formatted=l(this,!1)),this._formatted)} to file:///Users/jrieken/Code/_samples/sample-file-participant/samples/dropTarget/foo.txt
